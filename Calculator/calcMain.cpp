@@ -1,5 +1,3 @@
-//MEKLIT ABRAHAM YO1150 
-//MILCKYAS BELAY XG4651
 #include "stackHead.h"
 #include "stackImp.cpp"
 #include <iostream>
